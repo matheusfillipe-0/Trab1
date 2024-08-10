@@ -1,0 +1,34 @@
+
+
+class Pessoa:
+
+nome string
+cor string
+idade int
+cpf string
+genero string
+
+
+métodos:
+
+falar(string)
+andar
+
+
+instancias:
+
+
+------------------
+nome:filipe 
+cor:branco 
+idade :19
+cpf: xxx.xxx.xxx.xx
+genero: masculino
+------------------
+nome : arthur 
+cor : Pardo
+idade 20
+cpf xxx.xxx.xxx.xx
+genero : masculino
+
+
